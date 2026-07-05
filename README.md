@@ -1,73 +1,99 @@
-<h1>Hello, I'm Matias Constanzo Monsalve</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=E06C75&center=true&vCenter=true&width=435&lines=%3E+hello%2C+world;%3E+soy+Mat%C3%ADas" alt="Typing SVG" />
+</p>
 
-## About Me
-<img align="right" height="200" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
-<br>
+```text
+> whoami
+```
 
-- 🎓 **Computer Engineering** student (Ing. Civil en Informática) @ UBB, Chile.  
-- 🌱 Learning **Full-Stack Development** (Node.js, Express, MongoDB, react).  
-- 🐧 **Linux enthusiast** — daily driver, scripting, and open-source contributor.  
-- 🚀 Goal: Build scalable systems that bridge infrastructure and software.  
-<br clear="right">
+```text
+Matias Constanzo Monsalve
+Civil Engineering in Computer Science — UBB, Chile (year 3)
 
-## <h2>Skills</h2>
-<h4>Languages</h4>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+Full-stack developer building web apps with Next.js, TypeScript & PostgreSQL.
+Writing clean, intentional code for real-world problems.
+```
 
-<h4>Data Bases</h4>
-<div>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+---
 
-<h4>Web Development</h4>
-<div>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div>
+### `> featured_projects`
 
-<h4>Software & Tools</h4>
-<div> 
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</div>
+<details open>
+<summary><b>FightIQ</b> — <code>ML-powered UFC predictor</code></summary>
 
-<h4>Extras</h4>
-<div>
-  <img src="https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
-</div>
+> Data scraped from scratch · Random Forest model · 65%+ accuracy  
+> Enter two fighters → get a prediction trained on historical UFC data.
 
+[![Live][badge-live]](https://fightiq-one.vercel.app/) [![GitHub][badge-gh]](https://github.com/MatiasEng/fightiq.git)
 
-<h3>Stadistics</h3>
-<div align="center">
-  <span>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatiasEng&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react&hide_border=true"/>
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasEng&theme=react&hide_border=true"/> 
-  </span>
-  <br> <!-- Force line break -->
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasEng&layout=compact&theme=react&langs_count=8&hide_border=true"/>
-  </span>
-</div>
+`Next.js` `TypeScript` `Python` `FastAPI` `scikit-learn` `pandas` `PostgreSQL` `Tailwind CSS`
+</details>
 
-<h3>Contact With Me</h3>
-<div>
-  <a href="https://www.instagram.com/m4ti4s_404/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/matiaseng/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:contact.matias22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<details open>
+<summary><b>ClientFlow</b> — <code>Full-stack SaaS client portal</code></summary>
 
+> Client onboarding · file uploads · project tracking · Google OAuth · role-based access
 
+[![Live][badge-live]](https://clientflow-pi.vercel.app/dashboard) [![GitHub][badge-gh]](https://github.com/MatiasEng/ClientFlow/)
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth v5` `Uploadthing` `Tailwind CSS` `shadcn/ui` `Zod`
+</details>
+
+<details>
+<summary><b>Habit & Finance Tracker</b> — <code>Personal dashboard</code></summary>
+
+> Tracks daily habits and monthly expenses with hand-rolled JWT auth.
+
+[![GitHub][badge-gh]](https://github.com/MatiasEng/habit-finance-dashboard)
+
+`Node.js` `MongoDB` `Express` `JWT`
+</details>
+
+---
+
+### `> technical_skills`
+
+```
+Frontend         │  Next.js  React  TypeScript  Tailwind CSS  shadcn/ui
+Backend          │  Node.js  Express  Prisma  REST APIs
+Databases        │  PostgreSQL  MongoDB  Neon
+Auth & Infra     │  NextAuth v5  JWT  Vercel  Uploadthing
+Tooling          │  Git  Linux  Neovim  Bash
+Studying         │  CCNA  Networking  Machine Learning
+```
+
+---
+
+### `> about_me`
+
+```text
+location:     Chile
+studying:     Civil Engineering in CS — UBB, year 3
+currently:    Learning Machine Learning by building real projects
+also into:    Networking, Linux, AI
+languages:    Spanish (native), English (fluent)
+```
+
+---
+
+### `> get_in_touch`
+
+[![Instagram][badge-ig]](https://www.instagram.com/m4ti4s_404/)
+[![LinkedIn][badge-li]](https://www.linkedin.com/in/matiaseng/)
+[![Email][badge-mail]](mailto:contact.matias22@gmail.com)
+[![Portfolio][badge-portfolio]](https://matiaseng.vercel.app)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasEng&show_icons=true&locale=en&count_private=true&hide_rank=true&disable_animations=true&theme=react&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasEng&layout=compact&theme=react&langs_count=8&hide_border=true" height="140" />
+</p>
+
+<!-- badges -->
+[badge-live]: https://img.shields.io/badge/Live_site-%23e06c75?style=for-the-badge&logo=vercel&logoColor=white
+[badge-gh]: https://img.shields.io/badge/GitHub-%23111?style=for-the-badge&logo=github&logoColor=white
+[badge-ig]: https://img.shields.io/badge/Instagram-%23e06c75?style=for-the-badge&logo=instagram&logoColor=white
+[badge-li]: https://img.shields.io/badge/LinkedIn-%239cdef2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111
+[badge-mail]: https://img.shields.io/badge/Email-%23e06c75?style=for-the-badge&logo=gmail&logoColor=white
+[badge-portfolio]: https://img.shields.io/badge/Portfolio-%23111?style=for-the-badge&logo=nextdotjs&logoColor=white
